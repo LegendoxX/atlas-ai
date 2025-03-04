@@ -1,5 +1,0 @@
-flask
-openai
-requests
-pyttsx3
-SpeechRecognition
